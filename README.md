@@ -8,7 +8,7 @@
 ![Gemini AI](https://img.shields.io/badge/AI%20Assistant-Google%20Gemini-purple.svg)
 ![Three.js](https://img.shields.io/badge/3D%20Globe-Three.js-black.svg)
 
-**Solar Sentinel**, NASA ve NOAA verilerini gerçek zamanlı olarak işleyerek Dünya'yı etkileyebilecek jeomanyetik güneş fırtınalarını (Kp İndeksi) tahmin eden yapay zeka destekli bir erken uyarı ağıdır
+**Solar Sentinel**, NASA ve NOAA verilerini gerçek zamanlı olarak işleyerek Dünya'yı etkileyebilecek jeomanyetik güneş fırtınalarını (Kp İndeksi) tahmin eden yapay zeka destekli bir erken uyarı ağıdır.
 
 ## 🚀 Temel Özellikler ve Mimari
 
